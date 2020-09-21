@@ -128,7 +128,7 @@ width:30px;
 }
   .home_h2{
     font-size: 60px;
-    margin-bottom: 40px;
+    margin-bottom: 10px;
     padding-left:10px;
     position:relative;
     margin-top:30px;
@@ -144,10 +144,10 @@ width:30px;
     .TIMEPASS{
       display:flex;
       flex-direction:rows;
-       row-gap: 20px;
+       row-gap: 5px;
   }
   .temp{
-    float:left;
+    
     height:600px;
     width:98%;
     }
