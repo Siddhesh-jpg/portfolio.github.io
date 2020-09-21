@@ -141,8 +141,16 @@ width:30px;
   display:none;
   }
   
-    
-  
+    .TIMEPASS{
+      display:flex;
+      flex-direction:rows;
+       row-gap: 20px;
+  }
+  .temp{
+    float:left;
+    height:600px;
+    width:98%;
+    }
 
 
   
