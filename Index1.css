@@ -142,8 +142,8 @@ width:30px;
   }
   
     .TIMEPASS{
-      display:flex;
-      flex-direction:rows;
+      display: inline-block;
+      
        
   }
   .temp{
