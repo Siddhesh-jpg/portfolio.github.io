@@ -106,7 +106,7 @@ width:100%;
   
   /* introduction*/
   .home{
-margin-bottom: 400px;
+margin-bottom: 200px;
   }
 .button{
 box-shadow: 0 0 8px 2px  #4189edff;
@@ -138,8 +138,8 @@ width:30px;
   }
 .gog{
   position:absolute;
-  top:80px;
-  right:20px;
+  top:2%;
+  right:1%;
 }
 .gong{
   height:600px;
@@ -151,7 +151,7 @@ width:30px;
   text-decoration: none;
   font-size:68px;
  margin-left:30px;
-  margin-top:300px;
+  margin-bottom:1%;
 
 }
 #homes{
