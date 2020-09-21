@@ -127,7 +127,7 @@ width:30px;
   color:white;
 }
   .home_h2{
-    font-size: 60px;
+    font-size: 50px;
     margin-bottom: 10px;
     padding-left:10px;
     position:relative;
@@ -144,12 +144,12 @@ width:30px;
     .TIMEPASS{
       display:flex;
       flex-direction:rows;
-       row-gap: 1px;
+       
   }
   .temp{
-    right:0px;
+    
     height:600px;
-    width:98%;
+    width:50%;
     }
 
 
@@ -162,7 +162,7 @@ width:30px;
   text-decoration: none;
   font-size:60px;
  margin-left:40px;
-margin-bottom:30px
+row-gap:10px;
 
 }
 #homes{
