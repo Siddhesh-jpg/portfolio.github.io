@@ -138,14 +138,16 @@ width:30px;
   
   }
 .gog{
-  position:absolute;
-  top:20px;
-  right:10px;
-}
-.gong{
-  height:550px;
-  width:98%;
-}
+  display:none;
+  }
+  
+    
+  
+
+
+  
+ 
+
 .home__social{
   display:flex;
   flex-direction: column;
@@ -275,6 +277,9 @@ width:100%
     color:#016fdb;
   
   }
+  .temp{
+    display:none;
+    }
   
 .home__social{
   display:flex;
