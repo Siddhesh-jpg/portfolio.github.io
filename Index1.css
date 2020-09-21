@@ -158,7 +158,7 @@ width:30px;
 
 .home__social{
   display:flex;
-  flex-direction: column;
+  flex-direction: rows;
   text-decoration: none;
   font-size:60px;
  margin-left:40px;
