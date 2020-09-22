@@ -313,7 +313,7 @@ box-shadow: 0 0 8px 2px  #4189edff;
 padding:7px 10px;
 text-decoration: none;
 background:#016fdb;
-margin-left:10px;
+margin-left:40px;
 border-radius: 20px;
 margin-bottom:40px;
 color:#ffffff;
@@ -344,7 +344,7 @@ display:flex;
 
 .gong{
   height:450px;
-  width:60%;
+  width:40%;
 }
 
 
