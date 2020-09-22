@@ -143,7 +143,7 @@ width:30px;
   
     .TIMEPASS{
       display: flex;
-      flex-direction:rows;
+      flex-direction: column;
       justify-content: space-between;
       
       
