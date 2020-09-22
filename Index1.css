@@ -142,10 +142,10 @@ width:30px;
   }
   
     .TIMEPASS{
-      display: flex;
-      flex-direction: column;
-      justify-content: space-between;
+      display: grid;
+       grid-template-columns: 100px,200px;
       
+      column-gap: 20px ;
       
        
   }
