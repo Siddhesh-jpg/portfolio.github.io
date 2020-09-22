@@ -144,7 +144,7 @@ width:30px;
  .TIMEPASS{
          display:flex;
   flex-direction: rows;
-    row-gap:2px;
+    row-gap:0px;
    }
  
     
