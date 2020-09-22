@@ -111,15 +111,17 @@ margin-bottom: 150px;
   }
 .button{
 box-shadow: 0 0 8px 2px  #4189edff;
-padding:9px 14px;
+padding:8px 12px;
 text-decoration: none;
 background:#016fdb;
 
-border-radius: 20px;
+  
+border-radius: 50px;
 margin-bottom:40px;
+ padding-left:30px;
 color:#ffffff;
-font-size:15px;
-margin-left: 30px;
+font-size:14px;
+
 width:30px;
 }
 .button:hover{
