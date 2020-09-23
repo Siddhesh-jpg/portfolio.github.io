@@ -187,19 +187,107 @@ cursor:pointer;
 cursor:pointer;
 }
 
-  /* Skills */
-.container{
-  margin-top:20px;
-  display:grid;
-  grid-template-columns: repeat(2,auto);
+   /* Skills */
+  .skill_container{
+    text-align: center;
+    row-gap: 2rem;
+  }
+  .skills{
+    margin-bottom:100px;
+  }
+  .skil:hover{
+  border-bottom: 4px solid #2cf22b;
+  }
+  .Skill_data{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    position:relative;
+    font-size:40px;
+    border-radius: .5rem;
+    box-shadow: 0px  30px 85px rgba(14,36,49,.16);
+    margin-bottom: var(--mb-4);
+    padding: 30px 1rem;
+    /*padding:10px 1px;*/
+  }
+  
+  .c{
+    padding-left: 20px;
+  }
+  .skili{
+    margin-right:var(--mb-2);
+    color:#016fdb;
+    font-size:80px;
+    
+  }
+  .c{
+    display:flex;
+    align-items: center;
+  }
+  .bars{
+    position: absolute;
+    left:0;
+    bottom:0;
+    background:#4189edff;
+    height:10px;
+border-radius:.5rem;
+
+  }
+  .skbarword{
+    width:70%;
+  }
+  .skbarhtml{
+    width:95%;
+  }
+  .skbarcss{
+    width:93%;
+  }
+  .skbarcplus{
+    width:91%;
+  }
+  .skbarcpluss{
+    width:95%;
+  }
+  .cplus{
+    height:90px;
+  }
+  /* CONTACT */
+    .contact{
+    margin-bottom: 100px;
+    text-align: center;
+  }
+  .con{
+    width:60%;
+    padding:1rem;
+    border-radius: .5rem;
+    font-size:30px;
+    font-weight: bold;
+    border:1.5px solid black;
+    outline: none;
+    margin-bottom: 17px;
+   
+  }
+  .contact-button{
+   float:right;
+   margin-right:100px;
+    display:block;
+    margin-botton:30px;
+    outline: none;
+    font-size:30px;
+    width:17%;
+  }
+
+
+  }
  
-  grid-column-gap: 30px;
  
-}
+  
+ 
+
 
   
   
-}
+
 
 
 
@@ -345,7 +433,7 @@ display:flex;
 
 .gong{
   height:370px;
-  width:150px;
+  width:auto;
   
 }
 
