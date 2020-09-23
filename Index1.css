@@ -492,7 +492,10 @@ display:flex;
   margin-bottom:40px;
   
 }
+   .About-img{
+  height:240px;
   
+}
   /* Skills */
   .skill_container{
     text-align: center;
