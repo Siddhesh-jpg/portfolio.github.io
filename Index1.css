@@ -186,7 +186,37 @@ cursor:pointer;
  color:#016fdb;
 cursor:pointer;
 }
+/* About */
 
+.Aboutimg{
+
+  text-align: center;
+ padding-top:10px;
+
+}
+
+.About-h2{
+  text-align: center;
+  color: #016fdb;
+  
+  font-size:45px;
+}
+.About{
+  margin-bottom:100px;
+}
+.About-content{
+  text-align: center;
+  padding:14px;
+  margin-bottom:40px;
+  
+}
+
+.About-img{
+  height:600px;
+  
+}
+
+  
    /* Skills */
   .skill_container{
     text-align: center;
