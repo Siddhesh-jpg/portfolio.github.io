@@ -101,7 +101,14 @@ width:100%;
   .gog{
   display:none;
   }
- 
+ .home_h2{
+    font-size: 80px;
+    margin-bottom: 10px;
+    padding-left:20px;
+    position:relative;
+    margin-top:30px;
+
+  }
   
   
   
