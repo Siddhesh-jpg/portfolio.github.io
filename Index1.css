@@ -100,7 +100,7 @@ width:100%;
   .TIMEPASS{
          display:flex;
   flex-direction: rows;
-    row-gap:2px;
+    row-gap:5px;
    }
   .gog{
   display:none;
@@ -123,7 +123,7 @@ margin-bottom: 150px;
   }
 .button{
 box-shadow: 0 0 8px 2px  #4189edff;
-padding:10px 18px;
+padding:9px 14px;
 text-decoration: none;
 background:#016fdb;
 
@@ -144,9 +144,9 @@ width:25px;
   display:flex;
   flex-direction: rows;
   text-decoration: none;
-  font-size:70px;
+  font-size:68px;
  margin-left:80px;
-row-gap:35px;
+row-gap:45px;
 margin-top:140px;
 }
 #homes{
