@@ -93,6 +93,10 @@ width:100%;
 @media (min-width: 992px) and (max-width: 1199px) 
 {
   /* home */
+  .home{
+    margin-bottom:130px;
+    }
+  
   .TIMEPASS{
          display:flex;
   flex-direction: rows;
@@ -108,6 +112,10 @@ width:100%;
     position:relative;
     margin-top:30px;
 
+  }
+  .home_h2_color{
+    color:#30c3f9;
+  
   }
   .home{
 margin-bottom: 150px;
@@ -132,6 +140,17 @@ width:25px;
   background:black;
   color:white;
 }
+  .home__social{
+  display:flex;
+  flex-direction: rows;
+  text-decoration: none;
+  font-size:70px;
+ margin-left:50px;
+row-gap:13px;
+margin-top:80px;
+}
+
+
   
   /* About */
 
@@ -247,6 +266,7 @@ width:25px;
 row-gap:10px;
 margin-top:80px;
 }
+  
 #homes{
   color:black;
   transition: .2s;
