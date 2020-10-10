@@ -166,7 +166,7 @@ cursor:pointer;
 
 .Aboutimg{
 
-  text-align: center;
+  
  padding-top:10px;
 
 }
@@ -181,14 +181,14 @@ cursor:pointer;
   margin-bottom:100px;
 }
 .About-content{
-  text-align: center;
+  font-size:10px;
   padding:14px;
   margin-bottom:40px;
   
 }
 
 .About-img{
-  height:600px;
+  height:350px;
   
 }
   
