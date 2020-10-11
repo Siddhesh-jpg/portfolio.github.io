@@ -123,12 +123,12 @@ margin-bottom: 150px;
   }
 .button{
 box-shadow: 0 0 14px 3px  #4189edff;
-padding:9px 13px;
+padding:13px 17px;
 text-decoration: none;
 background:#016fdb;
 
-  
-border-radius: 70px;
+  margin-top:0px;
+border-radius: 5px;
 margin-bottom:40px;
  margin-left:50px;
 color:#ffffff;
