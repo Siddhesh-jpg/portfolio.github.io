@@ -182,14 +182,14 @@ cursor:pointer;
 }
 .About-content{
   font-size:10px;
-  padding:14px;
+  padding-left:30px;
   margin-bottom:40px;
-  
+  padding-top:20px;
 }
 
 .About-img{
   height:350px;
-  
+  padding-top:10px;
 }
   
   .Abb{
